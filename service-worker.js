@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stochastic-system/precache-manifest.61db7297fb040664e7d6f4c20b9959f4.js"
+  "/stochastic-system/precache-manifest.9bd56651b357ce496840e969238127e9.js"
 );
 
 self.addEventListener('message', (event) => {
