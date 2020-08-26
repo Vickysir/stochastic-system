@@ -15,7 +15,7 @@ function App() {
 	let handelChangeSelect = (e: any) => {
 		setStore("");
 		let value = e.target.value;
-		if (value == 1) {
+		if (value === "1") {
 			setRestaurant(restaurant1)
 		} else {
 			setRestaurant(restaurant2)
