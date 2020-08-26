@@ -10,9 +10,7 @@ function App() {
     alert("不许反悔奥！！！")
     setStore(res);
   }
-  const handelAdd = ()=>{
 
-  }
   return (
     <div className="App">
       <header className="App-header">
@@ -25,7 +23,7 @@ function App() {
               })
             }
             {/* <li>
-              <span onClick={handelAdd}>添加</span>
+              <span>添加</span>
             </li> */}
           </ul>
         </div>
