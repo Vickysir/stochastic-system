@@ -49,7 +49,7 @@ function App() {
 					那么问题来了，世纪大难题之
         </p>
 				<p onClick={() => handleClick(restaurant)} style={{ "cursor": "pointer", "color": "#FFAF5D" }}>
-					今天吃什么 (点我翻牌)
+					今天吃什么 
         </p>
 				<p style={{ "color": "#61dafb" }}>
 					{store}
