@@ -49,3 +49,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ```npm test -- --coverage```
 
 查看测试覆盖率
+
+### CI
+
